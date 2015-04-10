@@ -94,7 +94,7 @@ footer {
   background-image: url("../img/beetle.svg"), url("../img/beetle.svg"), url("../img/waves.png");
   background-size: 70px auto, 70px auto, 100px auto;
   background-repeat: no-repeat, no-repeat, repeat;
-  background-position: left top 20px, right top 20px, center 10px;
+  background-position: left top, right top, center 10px;
 }
 
 .gravel {
