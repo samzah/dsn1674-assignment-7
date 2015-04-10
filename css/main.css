@@ -5,3 +5,31 @@ html{
 	box-sizing: inherit;
 }
 
+body {
+  font-family: 'Dosis', sans-serif;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  color: #512200;
+  margin: 0;
+  padding: 25px 0;
+}
+nav li {
+  list-style-type: none;
+  display: inline-block;
+  float: left;
+  overflow: hidden;
+  text-align: center;
+  width: 25%;
+}
+nav ol{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+img {
+  width: 100%;
+  display: block;
+}
