@@ -91,7 +91,7 @@ footer {
 }
 
 .masthead {
-  background-image: url("../images/beetle.svg"), url("../images/waves.png");
+  background-image: url("../images/beetle.svg"), ("../images/beetle.svg"), url("../images/waves.png");
   background-size: 70px auto, 70px auto, 100px auto;
   background-repeat: no-repeat, no-repeat, repeat;
   background-position: left top 20px, right top 20px, center 10px;
